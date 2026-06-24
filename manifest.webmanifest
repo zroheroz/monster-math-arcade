@@ -1,7 +1,7 @@
 {
   "name": "Monster Math Arcade",
   "short_name": "Monster Math",
-  "description": "3rd Grade math arcade and modern simplified cursive practice.",
+  "description": "Math arcade with show-your-work pad, parent controls, and coin shop.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
